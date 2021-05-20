@@ -16,7 +16,7 @@ Julien Meloche1,2, Alexandre Langlois1,2, Nick Rutter3, Alain Royer 1,2, Josh Ki
 4 Environment and Climate Change Canada, Climate Research Division, Toronto, M3H 5T4, Canada
 5 Cold Regions Research Centre, Wilfrid Laurier University, Waterloo, N2L 3C5, Canada
 
-##library
+## library
 * Python 3.7.6
 * Numpy 1.16.4
 * Pandas 0.25.1
