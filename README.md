@@ -14,7 +14,9 @@ Julien Meloche1,2, Alexandre Langlois1,2, Nick Rutter3, Alain Royer 1,2, Josh Ki
 2 Centre d’études Nordiques, Université Laval, Québec, G1V 0A6, Canada
 3 Department of Geography and Environmental Sciences, Northumbria University, Newcastle upon Tyne, NE1 8ST, UK
 4 Environment and Climate Change Canada, Climate Research Division, Toronto, M3H 5T4, Canada
-5 Cold Regions Research Centre, Wilfrid Laurier University, Waterloo, N2L 3C5, Canada
+5 Cold Regions Research Centre, Wilfrid Laurier University, Waterloo, N2L 3C5, CanadaT
+
+This paper is currently under review at https://tc.copernicus.org/preprints/tc-2021-156/
 
 ## library
 * Python 3.7.6
